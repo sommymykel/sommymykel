@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sommymykel
-- 👀 I’m interested in ...
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
